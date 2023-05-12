@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebsite_cyt=self.webpackChunkwebsite_cyt||[]).push([[80],{6400:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var u=n(7294);function c(){return u.createElement("div",null,"Index Page")}}}]);
+//# sourceMappingURL=component---src-pages-fuck-en-js-6a35e4e9396e93f0789f.js.map
